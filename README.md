@@ -1,2 +1,2 @@
-students-2013-2015
-==================
+Dear students,
+please enlist your repositories in list.txt
